@@ -8,16 +8,16 @@
 			<li><strong>Current Location:</strong> Las Vegas, NV</li>
 			<li><strong>Languages Spoken:</strong> English</li>
 		</ul>
-		<p>As a developer who has spent most of his career working for web firms I never spent the time to build or
-			maintain a personal website. Yet for one reason or another I am feeling compelled to put who I am to a
-			website beyond my resume. Being primarily a coder I don't really have a portfolio for non-coders to
+		<p>As a developer who has spent most of his career working for web firms, I never spent the time to build or
+			maintain a personal website. Yet, for one reason or another I am feeling compelled to put who I am to a
+			website beyond my resume. Being primarily a coder, I don't really have a portfolio for non-coders to
 			really look at, but over time I will build fun tools/experiments into this website to show off my
 			skills.</p>
 	</section>
 	<section class='history'>
 		<h2>Experience / History</h2>
 		<p>I have over 10 years of experience building clients websites and applications using a variety of
-			technologies and programming languages. Working as a solo developer most of my career I have developed
+			technologies and programming languages. Working as a solo developer most of my career, I have developed
 			many talents; from converting PSD's to HTML and CSS to designing the architecture of databases. I have
 			been lucky enough to handle clients is a very wide number of industries; allowing me to create
 			applications that include: a real estate listing site, multiple tour re-sellers, a social network, a
@@ -30,13 +30,14 @@
 			<dd>
 				<ul class='skills'>
 					<li>HTML 5</li>
-					<li>AMPscript</li>
+					This is just a place for me as an active web developer to share my insights and commentary on whatever web related top I feel like talking about. Right now, the goal is to write at least one blog entry a month, but I won't let that stop me from posting more if a bit of inspiration hits.	<li>AMPscript</li>
 					<li>CSS 3</li>
 					<li>SASS/SCSS</li>
 					<li>JavaScript</li>
 					<li>jQuery</li>
-					<li>React</li>
 					<li>UmbrellaJS</li>
+					<li>React</li>
+					<li>Vue.js</li>
 				</ul>
 			</dd>
 			<dt>Backend Languages &amp; Frameworks</dt>
@@ -53,8 +54,9 @@
 			<dt>Database Systems &amp; Data Formats</dt>
 			<dd>
 				<ul class='skills'>
-					<li>MongoDB</li>
+					<li>NoSQL/MongoDB</li>
 					<li>MySQL/MariaDB</li>
+					<li>Cockroach</li>
 					<li>XML</li>
 					<li>JSON</li>
 					<li>CSV</li>

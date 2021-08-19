@@ -15,7 +15,7 @@ $characterList = [
 		[ 'name' => 'pipe', 'character' => '|' ],
 		[ 'name' => 'parentheses', 'character' => '()' ],
 		[ 'name' => 'brackets', 'character' => '[]' ],
-		[ 'name' => 'braces', 'character' => '[]' ],
+		[ 'name' => 'braces', 'character' => '{}' ],
 ];
 $featuresList = [
 		[
@@ -36,7 +36,7 @@ $featuresList = [
 		[
 				'name'    => 'readable',
 				'option'  => 'Remove similar looking letters and numbers',
-				'checked' => false,
+				'checked' => true,
 		],
 ];
 ?>
@@ -100,7 +100,7 @@ $featuresList = [
 							type='number'
 							name='passwordLength'
 							id='passwordLength'
-							value='20'
+							value='15'
 							min='6'
 							max='20'
 							required
@@ -113,9 +113,9 @@ $featuresList = [
 							type='number'
 							name='numberOfOutputs'
 							id='numberOfOutputs'
-							value='1'
+							value='5'
 							min='1'
-							max='10'
+							max='20'
 							required
 						/>
 					</li>
